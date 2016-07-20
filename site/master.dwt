@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html ng-app dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+ 	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- #BeginEditable "doctitle" -->
+		<title></title>
+		<!-- #EndEditable -->
+		<link rel="stylesheet" href="css/foundation.css" />
+		<link rel="stylesheet" href="css/app.css" />
+		<script src="js/vendor/modernizr.js"></script>
+		<script src="scripts/angular.min.js"></script>
+	</head>
+
+	<body>
+		<!-- Begin Navigation -->
+        
+	<!-- End Navigation -->
+<!-- #BeginEditable "content" -->
+			
+			
+<!-- #EndEditable -->
+			
+		
+		
+		<!-- Begin Footer -->
+		           
+<!-- End Footer -->
+		
+	<script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/what-input.min.js"></script>
+	<script src="js/foundation.min.js"></script>
+	<script src="js/app.js"></script>
+
+    <script>
+      $(document).foundation();
+    </script>
+
+</body>
+
+</html>
